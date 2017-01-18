@@ -1,0 +1,47 @@
+Course Project: Shiny Application and Reproducible Pitch
+========================================================
+date:  1/12/2017
+autosize: true
+transition: rotate
+
+ Introduction
+========================================================
+
+This application was develop using Shiny application in R programming language in R studios. My application returns some suggested destinations depending on your Mood or the Month you choose.
+
+How to use the app
+========================================================
+
+- When inputting the month please start with an upper case letter for example: January.
+
+- When inputting your mood please use all lower case letters for example: happy.
+
+- If you enter a blank answer you will get a return value: Please enter a Mood or Month
+
+Moods
+========================================================
+
+Please choose from the following:
+
+ happy | sad
+------------- | -------------
+ alone   | angry
+lazy    |  romantic
+depressed | frustrated
+curious | delighted
+energetic | adventurous
+hungry    |
+
+Months
+=======================================================
+
+ Please choose from the following:
+
+    January |  February 
+---------- | ------
+March | April
+May | June
+July | August
+September | October
+November | December
+
